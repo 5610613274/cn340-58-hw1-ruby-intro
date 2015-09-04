@@ -28,7 +28,7 @@ Getting Started
 ```
 $ mkdir hw
 $ cd hw
-$ git clone git@github.com:cn340-58/hw1-ruby-intro.git
+$ git clone https://github.com/cn340-58/hw1-ruby-intro.git
 $ cd hw1-ruby-intro
 $ git remote set-url origin git@github.com:your-username/cn340-hw1-ruby-intro.git
 $ git config --global user.name "your-name"
